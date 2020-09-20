@@ -45,5 +45,8 @@ Successfully Generated Password:
 
 * Project parameters provided by the UCB Extension Coding Bootcamp
 
+## License
+
+This project is licensed under the MIT License 
 
 
